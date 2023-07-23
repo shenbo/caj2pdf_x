@@ -1,0 +1,8 @@
+.vscode/
+
+*.caj
+*.tmp
+*.pdf
+
+*.zip
+*.exe
